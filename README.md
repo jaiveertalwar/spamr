@@ -1,4 +1,5 @@
 Spamr is an all-platform Python spam bot using minimal, simple code.  
+Download: https://github.com/jaiveertalwar/spamr/releases/latest
 
 **Coming soon:**
 -GUI Version ✅ 
