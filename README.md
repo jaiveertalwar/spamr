@@ -5,6 +5,6 @@ Download: https://github.com/jaiveertalwar/spamr/releases/latest
 -GUI Version ✅ 
 -Mac (.dmg) app ✅ 
 -Windows app
--Improved GUI
+-Improved GUI (10 Downloads)
 
 Disclaimer: This is for EDUCATIONAL purposes ONLY.   Use at your own risk.  
