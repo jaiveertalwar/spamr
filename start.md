@@ -1,6 +1,3 @@
-layout: page
-title: "Start with spamr"
-permalink: /start/
 
 
 Welcome to Spamr! To get started, make sure you're on a Mac running MacOS Catalina or newer. Next, download the latest release from GitHub: https://github.com/jaiveertalwar/spamr/releases.
