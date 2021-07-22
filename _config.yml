@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 download: https://dash.cloudflare.com/login
-show_downloads: false
+show_downloads: true
+github:
+  pkg_url: https://github.com/jaiveertalwar/spamr/releases/download/v1.0.3/Spamr-1.0.3.pkg
+
